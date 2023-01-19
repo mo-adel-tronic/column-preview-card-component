@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/mo-adel-tronic/stats-preview-card-component)
-- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/stats-preview-card-component/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-FOCaJ09dbo)
+- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/column-preview-card-component/)
 
 ## My process
 
